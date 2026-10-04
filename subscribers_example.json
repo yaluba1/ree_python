@@ -1,0 +1,16 @@
+{
+  "subscribers": {
+    "784960639": {
+      "chat_id": "123456789",
+      "added_manually": true,
+      "added_at": "2026-10-02T21:48:21.326379+02:00",
+      "active": true
+    },
+    "794822986": {
+      "chat_id": "987654321",
+      "added_manually": true,
+      "added_at": "2026-10-02T21:55:44.605088+02:00",
+      "active": true
+    }
+  }
+}
